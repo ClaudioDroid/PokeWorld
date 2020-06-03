@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(to right, #27b462, #79d49f, #baf3d2, #a62ff5);
+}
+
+header{
+    margin-left: auto;
+    border: 2px solid orange;    
+}
+
+.img{
+    max-width: 170px;
+    max-height: 170px;
+}
+
